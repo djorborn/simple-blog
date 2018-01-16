@@ -1,7 +1,7 @@
 {
-  "name": "vscoder",
+  "name": "simple-blog",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple Blog ==========",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,22 @@
     "express": "^4.16.2",
     "mongoose": "^4.13.9",
     "pug": "^2.0.0-rc.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djorborn/simple-blog.git"
+  },
+  "keywords": [
+    "simple-blog",
+    "learing",
+    "javascript",
+    "nodejs",
+    "express",
+    "mongoose"
+  ],
+  "bugs": {
+    "url": "https://github.com/djorborn/simple-blog/issues"
+  },
+  "homepage": "https://github.com/djorborn/simple-blog#readme"
 }
